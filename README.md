@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/AyushSaini2004/">
   <img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
