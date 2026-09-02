@@ -2,15 +2,15 @@
 
 <br>
 
-<a href="https://github.com/ayushsainidec24-spec">
+<img
+  src="https://raw.githubusercontent.com/ayushsainidec24-spec/ayushsainidec24-spec/main/assets/ayush-name.svg"
+  alt="Ayush Saini"
+  width="700"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=48&duration=4000&pause=1500&color=7C3AED&center=true&vCenter=true&width=850&height=90&lines=AYUSH+SAINI" alt="Ayush Saini"/>
+<br><br>
 
-</a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&width=850&height=60&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications" alt="AI Developer | Full-Stack Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications" alt="AI Developer | Full-Stack Engineer"/>
 
 <br><br>
 
@@ -76,8 +76,6 @@ React.js · Spring Boot · Spring AI · RAG · PostgreSQL · ServiceNow · OAuth
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-<br><br>
 
 </div>
 
