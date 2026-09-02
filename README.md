@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#8B5CF6;">Ayush Saini</span>
+# <span style="color:#8B5CF6;">Ayush Saini</span>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+%26+Full-Stack+Engineer;Full-Stack+AI+Engineer+Intern+%40+Ford;Building+AI-Powered+Applications;LLMs+%7C+RAG+%7C+Agentic+AI;React+%7C+Node.js+%7C+Spring+Boot;Backend+%26+REST+API+Engineer" alt="Typing SVG" />
