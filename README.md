@@ -1,91 +1,19 @@
 <div align="center">
 
-<svg
+<br>
+
+<img
+  src="./assets/ayush-name.svg"
+  alt="Ayush Saini"
   width="700"
-  height="150"
-  viewBox="0 0 700 150"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7C3AED">
-        <animate
-          attributeName="stop-color"
-          values="#7C3AED;#4F46E5;#9333EA;#7C3AED"
-          dur="5s"
-          repeatCount="indefinite"
-        />
-      </stop>
+/>
 
-      <stop offset="50%" stop-color="#4F46E5">
-        <animate
-          attributeName="stop-color"
-          values="#4F46E5;#9333EA;#7C3AED;#4F46E5"
-          dur="5s"
-          repeatCount="indefinite"
-        />
-      </stop>
+<br><br>
 
-      <stop offset="100%" stop-color="#9333EA">
-        <animate
-          attributeName="stop-color"
-          values="#9333EA;#7C3AED;#4F46E5;#9333EA"
-          dur="5s"
-          repeatCount="indefinite"
-        />
-      </stop>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Glow -->
-  <text
-    x="350"
-    y="95"
-    text-anchor="middle"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="70"
-    font-weight="700"
-    fill="none"
-    stroke="#7C3AED"
-    stroke-width="2"
-    opacity="0.35"
-    filter="url(#glow)"
-  >
-    AYUSH SAINI
-  </text>
-
-  <!-- Main Name -->
-  <text
-    x="350"
-    y="95"
-    text-anchor="middle"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="70"
-    font-weight="700"
-    letter-spacing="4"
-    fill="url(#gradient)"
-  >
-    AYUSH SAINI
-  </text>
-
-  <!-- Floating animation -->
-  <animateTransform
-    attributeName="transform"
-    type="translate"
-    values="0 0; 0 -7; 0 0; 0 7; 0 0"
-    dur="4s"
-    repeatCount="indefinite"
-  />
-
-</svg>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications"
+  alt="AI Developer | Full-Stack Engineer"
+/>
 
 </div>
 
