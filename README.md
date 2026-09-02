@@ -370,33 +370,35 @@ Building backend systems and exploring cloud technologies with a focus on secure
 
 <div align="center">
 
-<a href="mailto:ayush.saini24dec@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/saini-ayush10">
-<img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/ayushsainidec24-spec">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-&nbsp;
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-</div>
+### Let's build something intelligent. 🚀
 
 <br>
 
-<div align="center">
+<a href="mailto:ayush.saini24dec@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/saini-ayush10">
+  <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/ayushsainidec24-spec">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br><br>
+
+<sub>AI • Full-Stack • Backend • Building Intelligent Applications</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ayushsainidec24-spec&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 
 ### 🚀 Building intelligent products, one project at a time.
 
