@@ -390,20 +390,12 @@ Building backend systems and exploring cloud technologies with a focus on secure
   <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<br><br>
+<br>
 
 <sub>AI • Full-Stack • Backend • Building Intelligent Applications</sub>
 
-<br><br>
+<br><
 
 <img src="https://komarev.com/ghpvc/?username=ayushsainidec24-spec&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
-### 🚀 Building intelligent products, one project at a time.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ayushsainidec24-spec&style=flat-square&color=8B5CF6" alt="Profile Views"/>
 
 </div>
