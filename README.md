@@ -1,8 +1,65 @@
 <div align="center">
 
-# <span style="color:#8B5CF6;">AI Developer</span> | Full-Stack Engineer
+<br>
 
-### Software Engineer • AI • Backend • Building Scalable & Intelligent Applications
+# 👋 Hey, I'm <span style="color:#8B5CF6;">Ayush Saini</span>
+
+<br>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+Developer;Full-Stack+Engineer;Full-Stack+AI+Engineer;Backend+%26+AI+Engineer;Building+Intelligent+Applications;LLMs+%7C+RAG+%7C+Agentic+AI" alt="Typing Animation"/>
+</a>
+
+<br>
+
+### ⚡ Building intelligent software at the intersection of AI & Full-Stack Engineering
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="180">
+
+<b>🤖 AI</b><br>
+<sub>LLMs • RAG • Agents</sub>
+
+</td>
+
+<td align="center" width="180">
+
+<b>💻 FULL-STACK</b><br>
+<sub>React • Node • Spring</sub>
+
+</td>
+
+<td align="center" width="180">
+
+<b>⚙️ BACKEND</b><br>
+<sub>APIs • Databases • Systems</sub>
+
+</td>
+
+<td align="center" width="180">
+
+<b>🚀 BUILDING</b><br>
+<sub>Scalable AI Products</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_%26_Generative_AI-8B5CF6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-4C1D95?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white"/>
+
+<br><br>
+
+### 🚗 Full Stack AI Engineer Intern @ Ford Motor Company
+
+`React.js` `Spring Boot` `Spring AI` `RAG` `PostgreSQL` `ServiceNow` `OAuth 2.0`
 
 <br>
 
@@ -20,13 +77,19 @@
 &nbsp;
 <a href="https://leetcode.com/">
   <img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a> 
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D95,100:8B5CF6&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=ayushsainidec24-spec&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br><br>
 
 </div>
+
+---
+
+## ⚡ Engineering Focus
 
 ---
 
