@@ -18,13 +18,9 @@
   <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/AyushSaini2004/">
+<a href="https://leetcode.com/">
   <img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D95,100:8B5CF6&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
@@ -57,28 +53,16 @@
 <div align="center">
 
 ### 👨‍💻 Programming Languages
-
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
 
-<br><br>
-
 ### 🎨 Frontend Development
-
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 
-<br><br>
-
 ### ⚙️ Backend Development
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
-<br><br>
-
 ### 🗄️ Databases
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-<br><br>
 
 ### 🤖 AI & Generative AI
 
@@ -88,24 +72,15 @@
 <img src="https://img.shields.io/badge/Spring_AI-8B5CF6?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Assistants-9333EA?style=for-the-badge&logoColor=white"/>
 
-<br><br>
-
 ### ☁️ Cloud & Platforms
 
 <img src="https://skillicons.dev/icons?i=aws,gcp" />
 
-<br><br>
-
 <img src="https://img.shields.io/badge/ServiceNow-0EA5E9?style=for-the-badge&logo=servicenow&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth_2.0-2563EB?style=for-the-badge&logoColor=white"/>
 
-<br><br>
-
 ### 🔧 Developer Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br><br>
 
 <img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCode-312E81?style=for-the-badge&logoColor=white"/>
@@ -247,19 +222,9 @@ Building backend systems and exploring cloud technologies with a focus on secure
 
 <div align="center">
 
-### 🤖 Artificial Intelligence
-
 `Agentic AI` • `Generative AI` • `LLMs` • `RAG` • `AI Assistants`
 
-<br>
-
-### ⚙️ Software Engineering
-
 `REST APIs` • `Backend Architecture` • `Spring Boot` • `Full-Stack Development`
-
-<br>
-
-### ☁️ Cloud & Systems
 
 `AWS` • `Google Cloud` • `System Design` • `Scalable Applications`
 
@@ -338,42 +303,6 @@ Building backend systems and exploring cloud technologies with a focus on secure
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsainidec24-spec&bg_color=0B0F19&color=CBD5E1&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>☁️ Google Cloud Gemini</h3>
-
-Completed a **Google Cloud-authorized Gemini course**, gaining hands-on experience with AI-assisted productivity and Gemini-powered workflows.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🤖 Generative AI with AWS</h3>
-
-Completed Generative AI training through **Analytics Vidhya**, covering LLM fundamentals, prompt engineering and building AI-driven applications using AWS.
-
-</td>
-
-</tr>
-</table>
-
----
-
 ## 🎯 Engineering Philosophy
 
 <div align="center">
@@ -382,7 +311,7 @@ Completed Generative AI training through **Analytics Vidhya**, covering LLM fund
 
 ### <span style="color:#8B5CF6;">"Build. Learn. Improve. Repeat."</span>
 
-<br><br>
+<br>
 
 I believe good software should be
 
@@ -396,7 +325,7 @@ My goal is to combine
 
 to build intelligent applications that solve meaningful real-world problems.
 
-<br><br>
+<br>
 
 </div>
 
@@ -422,7 +351,7 @@ to build intelligent applications that solve meaningful real-world problems.
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br><br>
+&nbsp;
 
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -434,9 +363,9 @@ to build intelligent applications that solve meaningful real-world problems.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4C1D95,100:111827&height=120&section=footer" width="100%"/>
-
 ### 🚀 Building intelligent products, one project at a time.
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=ayushsainidec24-spec&style=flat-square&color=8B5CF6" alt="Profile Views"/>
 
