@@ -2,88 +2,78 @@
 
 <br>
 
-# 👋 Hey, I'm <span style="color:#8B5CF6;">Ayush Saini</span>
+# <span style="font-family:Georgia,serif; color:#111827;">Ayush Saini</span>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications" alt="AI Developer and Full-Stack Engineer"/>
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+Developer;Full-Stack+Engineer;Full-Stack+AI+Engineer;Backend+%26+AI+Engineer;Building+Intelligent+Applications;LLMs+%7C+RAG+%7C+Agentic+AI" alt="Typing Animation"/>
-</a>
-
-<br>
-
-### ⚡ Building intelligent software at the intersection of AI & Full-Stack Engineering
+<p>
+  <strong>AI • Full-Stack • Backend • Intelligent Systems</strong>
+</p>
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="180">
 
-<b>🤖 AI</b><br>
-<sub>LLMs • RAG • Agents</sub>
-
+<td align="center" width="190">
+<b>🤖 AI ENGINEERING</b><br>
+<sub>LLMs · RAG · Agents</sub>
 </td>
 
-<td align="center" width="180">
-
-<b>💻 FULL-STACK</b><br>
-<sub>React • Node • Spring</sub>
-
+<td align="center" width="190">
+<b>⚡ FULL-STACK</b><br>
+<sub>React · Node · Spring</sub>
 </td>
 
-<td align="center" width="180">
-
+<td align="center" width="190">
 <b>⚙️ BACKEND</b><br>
-<sub>APIs • Databases • Systems</sub>
-
+<sub>APIs · Databases</sub>
 </td>
 
-<td align="center" width="180">
-
+<td align="center" width="190">
 <b>🚀 BUILDING</b><br>
-<sub>Scalable AI Products</sub>
-
+<sub>AI-Powered Products</sub>
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI_%26_Generative_AI-8B5CF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack-6366F1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-4C1D95?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white"/>
-
-<br>
-
-### 🚗 Full Stack AI Engineer Intern @ Ford Motor Company
-
-`React.js` `Spring Boot` `Spring AI` `RAG` `PostgreSQL` `ServiceNow` `OAuth 2.0`
-
-<br>
-
-<a href="mailto:ayush.saini24dec@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/saini-ayush10">
-  <img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/ayushsainidec24-spec">
-  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<img src="https://img.shields.io/badge/AI%20%26%20GENAI-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FULL--STACK-4F46E5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/BACKEND-312E81?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-9333EA?style=for-the-badge&logoColor=white"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ayushsainidec24-spec&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+### 🚗 Full Stack AI Engineer Intern · Ford Motor Company
 
-<br>
+<sub>
+React.js · Spring Boot · Spring AI · RAG · PostgreSQL · ServiceNow · OAuth 2.0
+</sub>
+
+<br><br>
+
+<a href="mailto:ayush.saini24dec@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/saini-ayush10">
+<img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ayushsainidec24-spec">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
 
 </div>
 
