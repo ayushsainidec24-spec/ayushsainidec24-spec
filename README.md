@@ -20,7 +20,11 @@
 &nbsp;
 <a href="https://leetcode.com/">
   <img src="https://img.shields.io/badge/LEETCODE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+</a> 
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4C1D95,100:8B5CF6&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 </div>
 
