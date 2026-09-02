@@ -1,10 +1,18 @@
-<h1 align="center">AYUSH SAINI</h1>
+<div align="center">
 
-<p align="center">
-</p>
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/ayushsainidec24-spec/ayushsainidec24-spec/main/assets/ayush-name.svg"
+  alt="Ayush Saini"
+  width="700"
+/>
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications" alt="AI Developer | Full-Stack Engineer"/>
-<br>
+
+<br><br>
 
 ### ⚡ Building intelligent software at the intersection of AI & Full-Stack Engineering
 
@@ -71,6 +79,96 @@ React.js · Spring Boot · Spring AI · RAG · PostgreSQL · ServiceNow · OAuth
 
 </div>
 
+---
+## ⚡ Engineering Focus
+
+### 🤖 AI & GenAI
+
+- LLM-powered applications
+- Retrieval-Augmented Generation (RAG)
+- AI agents & tool calling
+- Prompt engineering
+- Semantic search & embeddings
+- Spring AI & AI application integration
+
+### 💻 Full-Stack Engineering
+
+- React.js & modern frontend architecture
+- RESTful APIs
+- Spring Boot & Node.js
+- Authentication & OAuth 2.0
+- Responsive, component-driven UIs
+- End-to-end application development
+
+### ⚙️ Backend & Systems
+
+- Java & Spring Boot
+- PostgreSQL & relational databases
+- API design & integration
+- Microservice-oriented architecture
+- ServiceNow integrations
+- Secure enterprise applications
+
+### 🚀 What I Build
+
+- AI-powered enterprise applications
+- Intelligent search & knowledge systems
+- Developer productivity tools
+- Automation workflows
+- Data-driven web applications
+- Production-ready AI experiences
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL`
+
+### AI / GenAI
+
+`LLMs` · `RAG` · `AI Agents` · `Embeddings` · `Vector Search` · `Spring AI`
+
+### Frontend
+
+`React.js` · `HTML5` · `CSS3` · `JavaScript` · `TypeScript`
+
+### Backend
+
+`Spring Boot` · `Spring Framework` · `Node.js` · `REST APIs`
+
+### Databases
+
+`PostgreSQL` · `SQL` · `Vector Databases`
+
+### Tools & Platforms
+
+`Git` · `GitHub` · `ServiceNow` · `OAuth 2.0` · `Docker`
+
+---
+
+## 🧠 Currently Exploring
+
+> **AI Agents · Advanced RAG · LLM Applications · Scalable Backend Systems · AI Engineering**
+
+Building systems where **AI isn't just a feature — it's part of the architecture.**
+
+---
+
+## 🚀 Featured Projects
+
+> **Coming soon — building and shipping intelligent applications.**
+
+---
+
+## 📊 GitHub Analytics
+
+---
+
+### ⚡ Build. Learn. Ship. Repeat.
+
+**Turning ideas into intelligent software.**
 ---
 ## ⚡ Engineering Focus
 
