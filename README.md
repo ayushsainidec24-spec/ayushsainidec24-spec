@@ -2,21 +2,19 @@
 
 <br>
 
-<img
-  src="https://raw.githubusercontent.com/ayushsainidec24-spec/ayushsainidec24-spec/main/assets/ayush-name.svg"
-  alt="Ayush Saini"
-  width="700"
-/>
+<a href="https://github.com/ayushsainidec24-spec">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=48&duration=4000&pause=1500&color=7C3AED&center=true&vCenter=true&width=850&height=90&lines=AYUSH+SAINI" alt="Ayush Saini"/>
+
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&width=850&height=60&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications" alt="AI Developer | Full-Stack Engineer"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=27&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications;LLMs+%7C+RAG+%7C+Agentic+AI" alt="AI Developer and Full-Stack Engineer"/>
-
-<br><br>
-
-<p>
-  <strong>AI • Full-Stack • Backend • Intelligent Systems</strong>
-</p>
+### ⚡ Building intelligent software at the intersection of AI & Full-Stack Engineering
 
 <br>
 
@@ -29,7 +27,7 @@
 </td>
 
 <td align="center" width="190">
-<b>⚡ FULL-STACK</b><br>
+<b>💻 FULL-STACK</b><br>
 <sub>React · Node · Spring</sub>
 </td>
 
@@ -84,7 +82,6 @@ React.js · Spring Boot · Spring AI · RAG · PostgreSQL · ServiceNow · OAuth
 </div>
 
 ---
-
 ## ⚡ Engineering Focus
 
 - 🤖 **AI & Intelligent Applications**  
