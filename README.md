@@ -1,8 +1,15 @@
 <div align="center">
 
-<h1>Ayush Saini</h1>
+<img
+  src="./assets/ayush-name.svg"
+  alt="Ayush Saini"
+  width="700"
+/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications" alt="AI Developer | Full-Stack Engineer"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications" alt="AI Developer | Full-Stack Engineer"/>
 
