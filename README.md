@@ -366,34 +366,6 @@ Building backend systems and exploring cloud technologies with a focus on secure
 
 ---
 
-## 🎯 Engineering Philosophy
-
-<div align="center">
-
-<br>
-
-### <span style="color:#8B5CF6;">"Build. Learn. Improve. Repeat."</span>
-
-<br>
-
-I believe good software should be
-
-**Useful • Reliable • Scalable • Simple**
-
-<br>
-
-My goal is to combine
-
-**AI + Backend Engineering + Full-Stack Development**
-
-to build intelligent applications that solve meaningful real-world problems.
-
-<br>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
