@@ -2,11 +2,17 @@
 
 <br>
 
-# <span style="font-family:Georgia,serif; color:#111827;">Ayush Saini</span>
+<img
+  src="https://raw.githubusercontent.com/ayushsainidec24-spec/ayushsainidec24-spec/main/assets/ayush-name.svg"
+  alt="Ayush Saini"
+  width="700"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications" alt="AI Developer and Full-Stack Engineer"/>
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=27&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=850&lines=AI+Developer;Full-Stack+Engineer;AI+%26+Backend+Engineer;Full-Stack+AI+Engineer;Building+Intelligent+Applications;LLMs+%7C+RAG+%7C+Agentic+AI" alt="AI Developer and Full-Stack Engineer"/>
+
+<br><br>
 
 <p>
   <strong>AI • Full-Stack • Backend • Intelligent Systems</strong>
