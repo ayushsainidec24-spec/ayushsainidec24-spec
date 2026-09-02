@@ -91,10 +91,6 @@
 
 ## ⚡ Engineering Focus
 
----
-
-## ⚡ Engineering Focus
-
 - 🤖 **AI & Intelligent Applications**  
   Exploring Agentic AI, LLMs, RAG and AI Assistants to build practical AI-powered products that solve real-world problems.
 
