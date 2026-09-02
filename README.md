@@ -1,10 +1,7 @@
-<div align="center">
+<h1 align="center">AYUSH SAINI</h1>
 
-<img
-  src="./assets/ayush-name.svg"
-  alt="Ayush Saini"
-  width="700"
-/>
+<p align="center">
+</p>
 
 <br>
 
