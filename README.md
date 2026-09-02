@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Backend-4C1D95?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### 🚗 Full Stack AI Engineer Intern @ Ford Motor Company
 
@@ -83,7 +83,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ayushsainidec24-spec&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<br><br>
+<br>
 
 </div>
 
