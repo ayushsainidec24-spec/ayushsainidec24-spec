@@ -94,7 +94,7 @@
 
 <img src="https://skillicons.dev/icons?i=aws,gcp" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/ServiceNow-0EA5E9?style=for-the-badge&logo=servicenow&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth_2.0-2563EB?style=for-the-badge&logoColor=white"/>
