@@ -60,25 +60,25 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
 
-<br><br>
+<br>
 
 ### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 
-<br><br>
+<br>
 
 ### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
-<br><br>
+<br>
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-<br><br>
+<br>
 
 ### 🤖 AI & Generative AI
 
@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/Spring_AI-8B5CF6?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Assistants-9333EA?style=for-the-badge&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### ☁️ Cloud & Platforms
 
@@ -99,13 +99,13 @@
 <img src="https://img.shields.io/badge/ServiceNow-0EA5E9?style=for-the-badge&logo=servicenow&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth_2.0-2563EB?style=for-the-badge&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### 🔧 Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCode-312E81?style=for-the-badge&logoColor=white"/>
