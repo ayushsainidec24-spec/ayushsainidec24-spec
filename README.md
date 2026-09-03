@@ -243,30 +243,6 @@ Building backend systems and exploring cloud technologies with a focus on secure
 
 ---
 
-## 🧠 Currently Exploring
-
-<div align="center">
-
-### 🤖 Artificial Intelligence
-
-`Agentic AI` • `Generative AI` • `LLMs` • `RAG` • `AI Assistants`
-
-<br>
-
-### ⚙️ Software Engineering
-
-`REST APIs` • `Backend Architecture` • `Spring Boot` • `Full-Stack Development`
-
-<br>
-
-### ☁️ Cloud & Systems
-
-`AWS` • `Google Cloud` • `System Design` • `Scalable Applications`
-
-</div>
-
----
-
 ## 💼 Industry Experience
 
 <table>
@@ -337,71 +313,6 @@ Building backend systems and exploring cloud technologies with a focus on secure
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsainidec24-spec&bg_color=0B0F19&color=CBD5E1&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>☁️ Google Cloud Gemini</h3>
-
-Completed a **Google Cloud-authorized Gemini course**, gaining hands-on experience with AI-assisted productivity and Gemini-powered workflows.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🤖 Generative AI with AWS</h3>
-
-Completed Generative AI training through **Analytics Vidhya**, covering LLM fundamentals, prompt engineering and building AI-driven applications using AWS.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🎯 Engineering Philosophy
-
-<div align="center">
-
-<br>
-
-### <span style="color:#8B5CF6;">"Build. Learn. Improve. Repeat."</span>
-
-<br><br>
-
-I believe good software should be
-
-**Useful • Reliable • Scalable • Simple**
-
-<br>
-
-My goal is to combine
-
-**AI + Backend Engineering + Full-Stack Development**
-
-to build intelligent applications that solve meaningful real-world problems.
-
-<br><br>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
