@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/ayushsainidec24-spec">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=Ayush+Saini" alt="Ayush Saini"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Ayush+Saini" alt="Ayush Saini"/>
 
 <br>
 
