@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=1000&lines=Welcome+to+the+Portfolio+of+Ayush+Saini" alt="Welcome to the Portfolio of Ayush Saini"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=1000&lines=WELCOME+TO+THE+PORTFOLIO+OF+AYUSH+SAINI" alt="WELCOME TO THE PORTFOLIO OF AYUSH SAINI"/>
 
 <br>
 
